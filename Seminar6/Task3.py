@@ -4,4 +4,4 @@ for i in range(1,3):
     c.append(int(input()))
 #не понимаю как сделать через filter
 # if filter(c[0]==c[1]**2, c) = true:
-    print('yes')
+    # print('yes')
